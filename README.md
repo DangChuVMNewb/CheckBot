@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)](https://www.python.org/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram)](https://core.telegram.org/bots/api)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel)](https://vercel.com/)
 
 ## 📋 Giới thiệu
 
@@ -127,9 +126,6 @@ sudo systemctl daemon-reload
 sudo systemctl start freefire-bot
 sudo systemctl enable freefire-bot
 ```
-
-### Triển khai trên Vercel/Cloud
-Bot có thể được triển khai trên các nền tảng cloud như Vercel, Render, hoặc bất kỳ server nào có Python environment.
 
 ## 🔧 Cấu hình nâng cao
 
