@@ -92,7 +92,7 @@ Khi tra cứu thành công, bot sẽ trả về thông tin dạng:
 🆔 UID: 5498571579
 🎮 Level: 50
 ❤️ Lượt thích: 1250
-🏆 Rank: Heroic
+🏆 Rank: 350
 📆 Ngày tạo: 15/06/2023 08:30:45 (Giờ VN)
 ⏰ Đăng nhập gần nhất: 25/12/2025 10:15:22 (Giờ VN)
 ```
